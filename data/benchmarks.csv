@@ -1,0 +1,8 @@
+category,product,value_metric,published_price,checked_on,source
+Competitor,Freed Starter,Seat plus 40-note quota,$39/month,2026-10-08,https://www.getfreed.ai/pricing
+Competitor,Freed Core,Seat with unlimited notes,$79/month,2026-10-08,https://www.getfreed.ai/pricing
+Competitor,PatientNotes Team,Seat with unlimited visits,$50/user/month annual or $70 monthly,2026-10-08,https://patientnotes.ai/pricing
+Infrastructure,OpenAI gpt-transcribe,Audio minute,$0.0045/minute,2026-10-08,https://platform.openai.com/pricing
+Infrastructure,OpenAI GPT-5.4 mini,Text tokens,$0.75 input / $0.075 cached / $4.50 output per 1M,2026-10-08,https://developers.openai.com/api/docs/models/gpt-5.4-mini
+Comparison,Deepgram Nova-3 Multilingual,Streaming audio minute,$0.0092 list / $0.0058 promotional,2026-10-08,https://deepgram.com/pricing
+
